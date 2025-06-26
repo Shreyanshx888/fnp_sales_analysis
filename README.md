@@ -59,8 +59,7 @@ The primary objectives of this project are to:
 - A few specific product categories consistently outperform others.
 
 ## Author
-**Shreyansh Agrahari**  
-B.Tech in Civil Engineering, NIT Durgapur  
+**Shreyansh Agrahari**   
 Email: shreyanshagrahari75@gmail.com  
 Phone: +91 8887684257  
 LinkedIn: [https://www.linkedin.com/in/shreyansh888/](https://www.linkedin.com/in/shreyansh888/)
